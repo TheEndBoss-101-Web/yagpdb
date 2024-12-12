@@ -58,7 +58,7 @@ import (
 	"github.com/botlabs-gg/yagpdb/v2/stdcommands/xkcd"
 	"github.com/botlabs-gg/yagpdb/v2/stdcommands/yagstatus"
 
-	"github.com/botlabs-gg/yagpdb/v2/stdcommands/mock"
+	//"github.com/botlabs-gg/yagpdb/v2/stdcommands/mock"
 )
 
 var (
@@ -111,7 +111,7 @@ func (p *Plugin) AddCommands() {
 		roast.Command,
 		eightball.Command,
 
-		mock.Command,
+		//mock.Command,
 
 		// Maintenance
 		stateinfo.Command,
