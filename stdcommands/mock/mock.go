@@ -1,3 +1,12 @@
+// Mocks text (capitalizes every second letter, lowercases all other letters).
+// See <https://yagpdb-cc.github.io/fun/mock> for more information.
+// Author: jo3-l <https://github.com/jo3-l>
+// Made a command by: TheEndBoss_101
+
+// This is TheEndBoss_101's first attempt at coding in Go.
+// The mockText function was written by ChatGPT.
+// Go is intresting... Verry intresting.
+
 package info
 
 import (
